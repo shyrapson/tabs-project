@@ -1,0 +1,13 @@
+{
+  "name": "tabs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://shyrapson.github.io/tabs-project",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
